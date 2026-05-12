@@ -47,6 +47,8 @@ Quá trình phân tích đã chuyển đổi từ sơ đồ quan hệ thành cá
 
  Sơ đồ ERD thể hiện rõ các thực thể KhachHang, HopDong, TaiSanCamCo, bảng Log và các khóa chính/khóa ngoại liên kết.
 
+<img width="726" height="738" alt="image" src="https://github.com/user-attachments/assets/a110ba84-1a9f-4f48-b2da-47b42fde96ed" />
+
 
 3. CÀI ĐẶT SQL & CÁC EVENT NGHIỆP VỤ
 
