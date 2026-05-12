@@ -212,6 +212,9 @@ GO
 /* =========================================================
    ẢNH CẦN CHÈN
    - Ảnh database QuanLyCamDo xuất hiện trong SSMS
+     
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/1f3de00d-2365-4549-81b1-f9b38fecd7fa" />
+
    ========================================================= */
 ________________________________________
 PHẦN 4. TẠO CÁC BẢNG DANH MỤC
